@@ -3342,3 +3342,63 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 20:21:29.042] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
 [01Jun2025 20:21:29.043] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
 [01Jun2025 20:22:01.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:22:02.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:22:02.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 20:23:54.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 2
+[01Jun2025 20:24:46.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> 2 q?
+[01Jun2025 20:26:05.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nada solo pa q se prenda
+[01Jun2025 20:26:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 20:26:59.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Stone Age]
+[01Jun2025 20:27:52.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Getting an Upgrade]
+[01Jun2025 20:28:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Acquire Hardware]
+[01Jun2025 20:28:31.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Isn't It Iron Pick]
+[01Jun2025 20:28:46.820] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player cfcbe879-4d10-3ba4-9020-e6ef65e660e1 timed out
+[01Jun2025 20:28:46.821] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player jesugamer213
+[01Jun2025 20:28:46.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to jesugamer213
+[01Jun2025 20:28:56.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesugamer213 lost connection: Timed out
+[01Jun2025 20:28:56.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 left the game
+[01Jun2025 20:28:56.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jesugamer213
+[01Jun2025 20:32:13.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> uyuyuy
+[01Jun2025 20:32:18.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> xD
+[01Jun2025 20:32:24.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> caña de azucar
+[01Jun2025 20:32:27.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> aqui ay alguien :v
+[01Jun2025 20:32:36.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> o ns
+[01Jun2025 20:33:42.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> tompedido
+[01Jun2025 20:33:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> pusiste un mod de caña de azucar?
+[01Jun2025 20:33:52.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es q me escontre mucha
+[01Jun2025 20:34:04.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> en un solo lugar
+[01Jun2025 20:34:30.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> gente xd
+[01Jun2025 20:34:36.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> ala xD
+[01Jun2025 20:34:48.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> toma
+[01Jun2025 20:35:03.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> hola .v?
+[01Jun2025 20:36:15.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo?
+[01Jun2025 20:36:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> si
+[01Jun2025 20:36:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> te escontre
+[01Jun2025 20:36:22.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> en tu aldea xd
+[01Jun2025 20:36:24.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> afk
+[01Jun2025 20:36:24.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> donde
+[01Jun2025 20:36:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> aqui
+[01Jun2025 20:36:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 20:36:43.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> hola .D
+[01Jun2025 20:36:47.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> te di caña de azuca xd
+[01Jun2025 20:36:50.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> creo q era tuya
+[01Jun2025 20:36:54.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> taba alla
+[01Jun2025 20:37:07.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> bueno
+[01Jun2025 20:37:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> chao
+[01Jun2025 20:37:12.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> me ire a explora
+[01Jun2025 20:37:19.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Monster Hunter]
+[01Jun2025 20:38:14.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> cual armadura tenes?
+[01Jun2025 20:39:44.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesugamer213[/127.169.11.157:38157] logged in with entity id 9898 at (238.4616100895604, -22.0, 798.3252302556914)
+[01Jun2025 20:39:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 joined the game
+[01Jun2025 20:39:44.339] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:39:44.340] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:39:46.053] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jesugamer213 (18)
+[01Jun2025 20:39:46.053] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jesugamer213
+[01Jun2025 20:39:46.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> hola
+[01Jun2025 20:39:47.429] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cfcbe879-4d10-3ba4-9020-e6ef65e660e1
+[01Jun2025 20:39:48.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cfcbe879-4d10-3ba4-9020-e6ef65e660e1
+[01Jun2025 20:39:48.430] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jesugamer213 (cfcbe879-4d10-3ba4-9020-e6ef65e660e1) successfully connected to voice chat
+[01Jun2025 20:40:07.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [A Bone to Pick]
+[01Jun2025 20:40:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 20:41:20.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server]  a
+[01Jun2025 20:41:25.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
