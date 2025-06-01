@@ -3485,3 +3485,36 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:31:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es un bebe
 [01Jun2025 21:31:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [Cover Me with Diamonds]
 [01Jun2025 21:32:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> el mekanism es good
+[01Jun2025 21:33:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Sweet Dreams]
+[01Jun2025 21:34:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [Multi-Tool]
+[01Jun2025 21:34:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] haciendo bot
+[01Jun2025 21:34:18.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> para q no se apague el sv?
+[01Jun2025 21:34:20.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> el bot?
+[01Jun2025 21:34:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 21:34:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro tried to swim in lava
+[01Jun2025 21:34:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xdd
+[01Jun2025 21:34:59.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=65, z=34}
+[01Jun2025 21:34:59.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=65, z=35}
+[01Jun2025 21:35:00.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=65, z=35}
+[01Jun2025 21:35:00.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=65, z=36}
+[01Jun2025 21:35:00.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=65, z=37}
+[01Jun2025 21:35:02.544] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@5147f2d3[id=5287ac95-ae40-3e8c-9b64-c04b57fcd24e,name=Anit_444,properties={}] lost connection: You are trying to connect to a server that is running NeoForge, but you are not. Please install NeoForge Version: 20.4.248 to connect to this server.
+[01Jun2025 21:35:02.588] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 21:36:11.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> pasen fotos pa la bienvenida
+[01Jun2025 21:36:23.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> el koya es un bot de bienvenida
+[01Jun2025 21:36:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> x eso
+[01Jun2025 21:36:38.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> y te genera una foto de bienvenida
+[01Jun2025 21:36:41.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> pa poner una foto
+[01Jun2025 21:36:41.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> creo
+[01Jun2025 21:36:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> si pero como hacerlo nc
+[01Jun2025 21:36:57.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> sigo un tutorial del shappire
+[01Jun2025 21:36:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> en su pagina
+[01Jun2025 21:37:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> tiene?
+[01Jun2025 21:37:05.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> si
+[01Jun2025 21:37:37.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> q estructuras ay?
+[01Jun2025 21:38:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Ice Bucket Challenge]
+[01Jun2025 21:40:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> una dunge
+[01Jun2025 21:40:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> dungeon
+[01Jun2025 21:40:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 tried to swim in lava to escape Zombie Villager
+[01Jun2025 21:40:31.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> f
+[01Jun2025 21:41:47.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q paso?

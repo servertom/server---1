@@ -22,7 +22,11 @@
       "minecraft:badlands": "2025-06-01 20:17:02 +0000",
       "minecraft:desert": "2025-06-01 20:19:47 +0000",
       "minecraft:forest": "2025-06-01 20:30:37 +0000",
+      "minecraft:sparse_jungle": "2025-06-01 21:39:30 +0000",
       "minecraft:river": "2025-06-01 20:31:22 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-01 21:37:20 +0000",
+      "minecraft:stony_shore": "2025-06-01 21:39:21 +0000",
+      "minecraft:wooded_badlands": "2025-06-01 21:36:25 +0000",
       "minecraft:plains": "2025-06-01 20:31:31 +0000"
     },
     "done": false
@@ -330,11 +334,15 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-06-01 20:42:35 +0000",
+      "floodplain": "2025-06-01 21:37:04 +0000",
+      "lush_savanna": "2025-06-01 21:36:55 +0000",
       "old_growth_woodland": "2025-06-01 20:38:09 +0000",
       "mediterranean_forest": "2025-06-01 20:40:57 +0000",
+      "rainforest": "2025-06-01 21:39:39 +0000",
       "lush_desert": "2025-06-01 20:25:42 +0000",
       "redwood_forest": "2025-06-01 20:45:34 +0000",
       "scrubland": "2025-06-01 20:38:45 +0000",
+      "rocky_rainforest": "2025-06-01 21:39:04 +0000",
       "prairie": "2025-06-01 20:42:52 +0000"
     },
     "done": false
@@ -1259,7 +1267,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-01 20:29:57 +0000"
+      "bread": "2025-06-01 20:29:57 +0000",
+      "golden_apple": "2025-06-01 21:42:13 +0000"
     },
     "done": false
   },
@@ -2085,6 +2094,72 @@
   "reliquary:recipes/misc/bullets/seeker_bullet": {
     "criteria": {
       "has_gunpowder": "2025-06-01 20:59:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 21:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-01 21:33:40 +0000"
+    },
+    "done": true
+  },
+  "trashcans:recipes/misc/liquid_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-06-01 21:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-01 21:38:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/cave_spider": {
+    "criteria": {
+      "has_chelicerae": "2025-06-01 21:41:30 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-06-01 21:38:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/string": {
+    "criteria": {
+      "has_chelicerae": "2025-06-01 21:41:30 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-06-01 21:38:16 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/spider": {
+    "criteria": {
+      "has_chelicerae": "2025-06-01 21:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 21:38:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/spider_eye": {
+    "criteria": {
+      "has_chelicerae": "2025-06-01 21:41:30 +0000"
     },
     "done": true
   },
