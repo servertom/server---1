@@ -3681,3 +3681,20 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 22:57:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
 [01Jun2025 22:57:29.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
 [01Jun2025 23:00:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] waa
+[01Jun2025 23:06:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> que paso
+[01Jun2025 23:07:13.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Take Aim]
+[01Jun2025 23:08:21.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:36123] logged in with entity id 67461 at (-987.708862105626, 65.0, -659.3391506567324)
+[01Jun2025 23:08:21.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 23:08:21.615] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:08:21.615] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:08:42.319] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 23:08:42.320] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 23:09:44.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[01Jun2025 23:09:44.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 23:09:44.939] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 23:12:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> no se
+[01Jun2025 23:13:18.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 23:13:18.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas<--[HERE]
+[01Jun2025 23:18:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 23:18:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
+[01Jun2025 23:24:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> quien le te nga miedo a morir que no nazca
