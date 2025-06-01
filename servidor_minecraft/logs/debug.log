@@ -9647,3 +9647,74 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 20:09:41.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> 30 escombos
 [01Jun2025 20:09:49.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> 90 si lo prosesamos con mekanism
 [01Jun2025 20:10:43.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yes
+[01Jun2025 20:12:55.044] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:16:25.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> como conseguiste tantos escombros no avia visto el mensaje
+[01Jun2025 20:16:57.952] [Netty Epoll Server IO #1/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@68da86f9 into net.minecraft.network.Connection@3573b159
+[01Jun2025 20:17:01.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:59933] logged in with entity id 3967 at (3.5, 65.0, 30.5)
+[01Jun2025 20:17:01.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 20:17:01.545] [Server thread/DEBUG] [FTB Teams/]: player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b logged in, player team = null
+[01Jun2025 20:17:01.545] [Server thread/DEBUG] [FTB Teams/]: creating new player team for player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:17:01.548] [Server thread/DEBUG] [FTB Teams/]:   - team created
+[01Jun2025 20:17:01.548] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = true
+[01Jun2025 20:17:01.553] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 20:17:01.553] [Server thread/DEBUG] [FTB Teams/]: sending team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b...
+[01Jun2025 20:17:01.553] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, team = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:17:01.553] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:17:01.554] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:17:01.554] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:17:01.554] [Server thread/DEBUG] [FTB Teams/]: team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b sent
+[01Jun2025 20:17:01.555] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:17:01.555] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:17:01.558] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b)
+[01Jun2025 20:17:01.558] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of AlejandroIsPro: {disabled=false, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:17:19.590] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 20:17:19.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 20:17:19.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with AlejandroIsPro
+[01Jun2025 20:17:19.590] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 20:17:19.591] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 20:17:53.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> por fin alguien mas se unio al server
+[01Jun2025 20:17:55.063] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:18:06.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> xD
+[01Jun2025 20:18:13.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] wiiiiiiiiii
+[01Jun2025 20:18:13.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:18:14.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:18:14.848] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of AlejandroIsPro to connected: {disabled=false, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:18:14.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 20:18:15.013] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of AlejandroIsPro: {disabled=true, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:18:38.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> q mal
+[01Jun2025 20:19:25.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> ay algun mod paq no se vea la niebla?
+[01Jun2025 20:20:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro was slain by Spider
+[01Jun2025 20:20:17.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b timed out
+[01Jun2025 20:20:17.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player AlejandroIsPro
+[01Jun2025 20:20:17.700] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 20:20:17.700] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with AlejandroIsPro
+[01Jun2025 20:20:17.700] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 20:20:17.701] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 20:20:17.701] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d62f99ec-8b1e-3683-abe9-b3c3f6aba79b to disconnected: {disabled=true, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:20:31.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Timed out
+[01Jun2025 20:20:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 20:20:31.988] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
+[01Jun2025 20:20:31.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 20:20:32.039] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jun2025 20:21:05.677] [Netty Epoll Server IO #3/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@71e328d7 into net.minecraft.network.Connection@34e1b88f
+[01Jun2025 20:21:09.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:59835] logged in with entity id 5086 at (56.70093037707798, 64.0, 83.59525905349832)
+[01Jun2025 20:21:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 20:21:09.363] [Server thread/DEBUG] [FTB Teams/]: player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b logged in, player team = AlejandroIsPro#d62f99ec
+[01Jun2025 20:21:09.363] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Teams/]: sending team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b...
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, team = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:21:09.365] [Server thread/DEBUG] [FTB Teams/]: team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b sent
+[01Jun2025 20:21:09.366] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:21:09.366] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 20:21:09.367] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b)
+[01Jun2025 20:21:09.367] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of AlejandroIsPro: {disabled=false, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:21:29.042] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 20:21:29.043] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 20:21:29.043] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with AlejandroIsPro
+[01Jun2025 20:21:29.043] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 20:21:29.043] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 20:22:01.571] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
