@@ -3700,3 +3700,17 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 23:24:12.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> quien le te nga miedo a morir que no nazca
 [01Jun2025 23:29:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> wiiiiiiiii
 [01Jun2025 23:29:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [We Need to Go Deeper]
+[01Jun2025 23:38:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Oh Shiny]
+[01Jun2025 23:39:45.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anit_444 lost connection: Disconnected
+[01Jun2025 23:39:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 left the game
+[01Jun2025 23:39:45.393] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
+[01Jun2025 23:41:34.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anit_444[/127.203.71.23:40749] logged in with entity id 74046 at (13.699407468421656, 42.0, 62.483935407714654)
+[01Jun2025 23:41:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 joined the game
+[01Jun2025 23:41:34.536] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:41:34.536] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:41:36.745] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anit_444 (18)
+[01Jun2025 23:41:36.745] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anit_444
+[01Jun2025 23:41:38.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:39.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:39.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e) successfully connected to voice chat
+[01Jun2025 23:43:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Who is Cutting Onions?]

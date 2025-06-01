@@ -19061,3 +19061,37 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 23:29:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> wiiiiiiiii
 [01Jun2025 23:29:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [We Need to Go Deeper]
 [01Jun2025 23:32:55.041] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 23:37:55.040] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 23:38:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Oh Shiny]
+[01Jun2025 23:39:45.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anit_444 lost connection: Disconnected
+[01Jun2025 23:39:45.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 left the game
+[01Jun2025 23:39:45.393] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anit_444
+[01Jun2025 23:39:45.393] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
+[01Jun2025 23:41:32.386] [Netty Epoll Server IO #6/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7b411c56 into net.minecraft.network.Connection@35cd7032
+[01Jun2025 23:41:34.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anit_444[/127.203.71.23:40749] logged in with entity id 74046 at (13.699407468421656, 42.0, 62.483935407714654)
+[01Jun2025 23:41:34.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 joined the game
+[01Jun2025 23:41:34.534] [Server thread/DEBUG] [FTB Teams/]: player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e logged in, player team = Anit_444#5287ac95
+[01Jun2025 23:41:34.534] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[01Jun2025 23:41:34.535] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 23:41:34.535] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 5287ac95-ae40-3e8c-9b64-c04b57fcd24e...
+[01Jun2025 23:41:34.535] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = 5287ac95-ae40-3e8c-9b64-c04b57fcd24e, team = 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:34.535] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:34.535] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:34.536] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:34.536] [Server thread/DEBUG] [FTB Teams/]: team login event for 5287ac95-ae40-3e8c-9b64-c04b57fcd24e sent
+[01Jun2025 23:41:34.536] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:41:34.536] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 23:41:34.537] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e)
+[01Jun2025 23:41:34.537] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Anit_444: {disabled=false, disconnected=true, uuid=5287ac95-ae40-3e8c-9b64-c04b57fcd24e, name=Anit_444, group=null}
+[01Jun2025 23:41:36.745] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anit_444 (18)
+[01Jun2025 23:41:36.745] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Anit_444
+[01Jun2025 23:41:36.745] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Anit_444
+[01Jun2025 23:41:36.745] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Anit_444
+[01Jun2025 23:41:36.745] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anit_444
+[01Jun2025 23:41:38.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:39.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 23:41:39.410] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Anit_444 to connected: {disabled=false, disconnected=false, uuid=5287ac95-ae40-3e8c-9b64-c04b57fcd24e, name=Anit_444, group=null}
+[01Jun2025 23:41:39.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e) successfully connected to voice chat
+[01Jun2025 23:41:39.599] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anit_444: {disabled=true, disconnected=false, uuid=5287ac95-ae40-3e8c-9b64-c04b57fcd24e, name=Anit_444, group=null}
+[01Jun2025 23:42:55.040] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 23:43:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Who is Cutting Onions?]
