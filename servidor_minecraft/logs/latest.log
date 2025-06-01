@@ -3539,3 +3539,135 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 22:13:36.505] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
 [01Jun2025 22:13:40.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anit_444 (18)
 [01Jun2025 22:13:40.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anit_444
+[01Jun2025 22:13:44.308] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:45.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:45.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e) successfully connected to voice chat
+[01Jun2025 22:14:51.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> wenas Anit_444
+[01Jun2025 22:15:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] o/ Anit_444
+[01Jun2025 22:15:59.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:43829] logged in with entity id 40235 at (105.43189701054816, 33.0, -921.1876894788214)
+[01Jun2025 22:15:59.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 22:15:59.213] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:15:59.213] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:16:16.292] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 22:16:16.292] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 22:17:19.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:17:20.453] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:17:20.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 22:17:41.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jesugamer213[/127.169.11.157:47701] logged in with entity id 40920 at (-83.69999998807907, 84.0, 163.93577347251184)
+[01Jun2025 22:17:41.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 joined the game
+[01Jun2025 22:17:41.415] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:17:41.415] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:17:43.519] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jesugamer213 (18)
+[01Jun2025 22:17:43.519] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jesugamer213
+[01Jun2025 22:17:46.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player cfcbe879-4d10-3ba4-9020-e6ef65e660e1
+[01Jun2025 22:17:47.505] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player cfcbe879-4d10-3ba4-9020-e6ef65e660e1
+[01Jun2025 22:17:47.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jesugamer213 (cfcbe879-4d10-3ba4-9020-e6ef65e660e1) successfully connected to voice chat
+[01Jun2025 22:17:52.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> hola xd
+[01Jun2025 22:18:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> a
+[01Jun2025 22:18:11.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> hola
+[01Jun2025 22:18:29.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> holaaaaaaaaaa
+[01Jun2025 22:19:01.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> mañana se añaden nuevos mods
+[01Jun2025 22:19:07.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 fell from a high place
+[01Jun2025 22:19:12.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 22:19:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> va fresquito 120 fps
+[01Jun2025 22:20:29.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Stone Age]
+[01Jun2025 22:20:35.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Getting an Upgrade]
+[01Jun2025 22:20:52.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> tengo
+[01Jun2025 22:20:54.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> ven toma
+[01Jun2025 22:21:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> ´nop
+[01Jun2025 22:21:21.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> solo eso
+[01Jun2025 22:21:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] afk
+[01Jun2025 22:23:53.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:23:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sau ña bakup<--[HERE]
+[01Jun2025 22:24:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Sweet Dreams]
+[01Jun2025 22:24:30.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=78, z=767} BlockPos{x=224, y=78, z=767}
+[01Jun2025 22:24:30.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=78, z=767} BlockPos{x=224, y=78, z=767}
+[01Jun2025 22:24:31.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=79, z=768} BlockPos{x=224, y=77, z=770}
+[01Jun2025 22:24:31.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=223, y=79, z=768} BlockPos{x=224, y=77, z=770}
+[01Jun2025 22:24:47.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=226, y=79, z=765} BlockPos{x=225, y=78, z=766}
+[01Jun2025 22:29:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> wtf y esto?
+[01Jun2025 22:29:20.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> que ?
+[01Jun2025 22:29:31.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es como una mina abandonada
+[01Jun2025 22:29:44.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> un carrito con tnt ;v
+[01Jun2025 22:30:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido was slain by Phantom
+[01Jun2025 22:31:31.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] w
+[01Jun2025 22:31:31.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:31:31.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[01Jun2025 22:31:37.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> ?
+[01Jun2025 22:31:42.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> qn me mato?
+[01Jun2025 22:31:48.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> yo
+[01Jun2025 22:31:49.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> no
+[01Jun2025 22:31:49.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> un phantom
+[01Jun2025 22:31:59.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> qn no duermen?
+[01Jun2025 22:32:01.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Teleported tompedido to jesugamer213]
+[01Jun2025 22:32:10.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> con q duerma 1 basta y sobra
+[01Jun2025 22:32:34.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Chest Slayer]
+[01Jun2025 22:32:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Amateur Archaeologist]
+[01Jun2025 22:33:03.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> que me perdi
+[01Jun2025 22:33:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> de todo
+[01Jun2025 22:33:11.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> ahre
+[01Jun2025 22:33:13.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> nada
+[01Jun2025 22:33:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> :
+[01Jun2025 22:33:22.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> :0
+[01Jun2025 22:33:46.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Set own game mode to Creative Mode]
+[01Jun2025 22:33:53.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Set own game mode to Survival Mode]
+[01Jun2025 22:34:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Looting VIII to tompedido's item]
+[01Jun2025 22:34:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Sharpness IX to tompedido's item]
+[01Jun2025 22:34:15.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Fortune VIII to tompedido's item]
+[01Jun2025 22:34:23.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Efficiency IX to tompedido's item]
+[01Jun2025 22:36:25.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> todos G a mi
+[01Jun2025 22:36:55.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> le di a la g y ahora veo todo clarito xd
+[01Jun2025 22:37:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> sis
+[01Jun2025 22:37:11.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Monster Hunter]
+[01Jun2025 22:37:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Gave 1 [Lime Sleeping Bag] to tompedido]
+[01Jun2025 22:37:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> pa q aprendan a dormir
+[01Jun2025 22:37:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xdw
+[01Jun2025 22:38:00.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> oe jesugamer213 pa q pones netherrack en la base :V
+[01Jun2025 22:38:05.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 22:38:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> no se
+[01Jun2025 22:38:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 was slain by Baby Enderman
+[01Jun2025 22:38:34.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 22:38:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:38:43.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> pero que lag :-:
+[01Jun2025 22:38:46.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:38:49.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:38:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:40:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Gave 1 [Crafting Upgrade] to tompedido]
+[01Jun2025 22:41:50.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Acquire Hardware]
+[01Jun2025 22:41:56.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Isn't It Iron Pick]
+[01Jun2025 22:42:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Not Today, Thank You]
+[01Jun2025 22:43:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Scavenger I to tompedido's item]
+[01Jun2025 22:43:24.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Set own game mode to Creative Mode]
+[01Jun2025 22:43:51.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Set own game mode to Survival Mode]
+[01Jun2025 22:44:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Protection VIII to tompedido's item]
+[01Jun2025 22:44:10.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Protection VIII to tompedido's item]
+[01Jun2025 22:44:13.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Protection VIII to tompedido's item]
+[01Jun2025 22:44:14.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Protection VIII to tompedido's item]
+[01Jun2025 22:44:19.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:44:22.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:44:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:44:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Mending to tompedido's item]
+[01Jun2025 22:44:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:44:36.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:44:38.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:44:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Applied enchantment Unbreaking VIII to tompedido's item]
+[01Jun2025 22:44:48.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[01Jun2025 22:44:49.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 22:44:49.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 22:44:51.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Suit Up]
+[01Jun2025 22:45:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:45:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: swaa<--[HERE]
+[01Jun2025 22:45:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:45:50.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ñaa<--[HERE]
+[01Jun2025 22:45:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 22:45:52.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nii saa<--[HERE]
+[01Jun2025 22:47:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Diamonds!]
+[01Jun2025 22:48:01.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> compro osmium
+[01Jun2025 22:48:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 was shot by Baby Skeleton
+[01Jun2025 22:48:20.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> en la base hay
+[01Jun2025 22:49:38.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Hot Stuff]
+[01Jun2025 22:53:37.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> al rato me conecto
+[01Jun2025 22:53:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> chau
+[01Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesugamer213 lost connection: Disconnected
+[01Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 left the game
+[01Jun2025 22:53:45.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jesugamer213
