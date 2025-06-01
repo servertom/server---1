@@ -9672,3 +9672,28 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 17:07:45.719] [Netty Epoll Server IO #3/INFO] [Easy NPC/]: Opening menu 9c02443d-1a4d-4136-b579-46d9b99154e8 for npc 029b7b5e-8909-4e78-9c47-3b6ecc0046bb and player ServerPlayer['tompedido'/156, l='ServerLevel[world]', x=20.38, y=65.00, z=42.10] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
 [01Jun2025 17:07:45.910] [Netty Epoll Server IO #3/INFO] [Easy NPC/]: Opening menu ea8a41b4-793b-430b-9a4f-30debe95c568 for npc 029b7b5e-8909-4e78-9c47-3b6ecc0046bb and player ServerPlayer['tompedido'/156, l='ServerLevel[world]', x=20.38, y=65.00, z=42.10] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
 [01Jun2025 17:07:46.069] [Netty Epoll Server IO #3/INFO] [Easy NPC/]: Opening menu 07d99f02-f57b-42c8-a747-2537a01c1c0f for npc 029b7b5e-8909-4e78-9c47-3b6ecc0046bb and player ServerPlayer['tompedido'/156, l='ServerLevel[world]', x=20.38, y=65.00, z=42.10] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[entity.easy_npc.]}]
+[01Jun2025 17:10:26.168] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 17:15:26.154] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 17:19:41.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[01Jun2025 17:19:41.507] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[01Jun2025 17:19:41.509] [Server thread/DEBUG] [lain.mods.cos.init.neoforge.NeoForgeCosmeticArmorReworked/]: 124536fd-6df4-35aa-9d7d-1889378dcf56
+[01Jun2025 17:19:41.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jun2025 17:19:41.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jun2025 17:19:41.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tompedido lost connection: Server closed
+[01Jun2025 17:19:41.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido left the game
+[01Jun2025 17:19:41.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jun2025 17:19:41.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jun2025 17:19:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jun2025 17:19:42.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jun2025 17:19:42.670] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 17:19:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jun2025 17:19:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jun2025 17:19:42.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jun2025 17:19:42.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jun2025 17:19:42.702] [Server thread/INFO] [FTB Chunks/]: Shutting down map thread
+[01Jun2025 17:19:42.707] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[01Jun2025 17:19:42.708] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[01Jun2025 17:19:42.709] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for easyanvils
+[01Jun2025 17:19:42.711] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for pickupnotifier
+[01Jun2025 17:19:42.713] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for leavesbegone
+[01Jun2025 17:19:42.718] [Server thread/INFO] [Puzzles Lib/]: Unloading server config for easymagic
