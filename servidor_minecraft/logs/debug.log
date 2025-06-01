@@ -11366,3 +11366,43 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:18:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [A Metallur-what?]
 [01Jun2025 21:18:35.986] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of tompedido: {disabled=true, disconnected=false, uuid=124536fd-6df4-35aa-9d7d-1889378dcf56, name=tompedido, group=e5679175-fba7-48f8-973c-6a066c90aa59}
 [01Jun2025 21:18:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Teleported tompedido to jesugamer213]
+[01Jun2025 21:22:55.042] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 21:24:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 hit the ground too hard
+[01Jun2025 21:24:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido has made the advancement [Stone Age]
+[01Jun2025 21:27:44.701] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@2c3ca165 into net.minecraft.network.Connection@63096818
+[01Jun2025 21:27:46.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:35401] logged in with entity id 27023 at (326.54036802719867, -48.0, 1429.7567378866115)
+[01Jun2025 21:27:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 21:27:46.986] [Server thread/DEBUG] [FTB Teams/]: player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b logged in, player team = AlejandroIsPro#d62f99ec
+[01Jun2025 21:27:46.986] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[01Jun2025 21:27:46.988] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 21:27:46.988] [Server thread/DEBUG] [FTB Teams/]: sending team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b...
+[01Jun2025 21:27:46.988] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, team = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:27:46.989] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:27:46.989] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:27:46.989] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:27:46.989] [Server thread/DEBUG] [FTB Teams/]: team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b sent
+[01Jun2025 21:27:46.989] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 21:27:46.989] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 21:27:46.990] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b)
+[01Jun2025 21:27:46.990] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of AlejandroIsPro: {disabled=false, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 21:27:55.046] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 21:28:00.742] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 21:28:00.742] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 21:28:00.743] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with AlejandroIsPro
+[01Jun2025 21:28:00.743] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 21:28:00.743] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 21:28:16.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:28:18.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:28:18.042] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of AlejandroIsPro to connected: {disabled=false, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 21:28:18.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 21:28:18.211] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of AlejandroIsPro: {disabled=true, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 21:30:27.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> los bebes esqueletos son un asco
+[01Jun2025 21:30:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> la verdad
+[01Jun2025 21:30:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es mas peligroso q el zombie bebe
+[01Jun2025 21:31:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> como corre no es normal
+[01Jun2025 21:31:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> y parecen que tienes muchisima menos hitbox que el resto
+[01Jun2025 21:31:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> y si
+[01Jun2025 21:31:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es un bebe
+[01Jun2025 21:31:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [Cover Me with Diamonds]
+[01Jun2025 21:32:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> el mekanism es good
+[01Jun2025 21:32:55.047] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

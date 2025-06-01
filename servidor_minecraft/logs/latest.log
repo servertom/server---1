@@ -3465,3 +3465,23 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:17:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido has made the advancement [Diamonds!]
 [01Jun2025 21:18:27.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [A Metallur-what?]
 [01Jun2025 21:18:40.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Teleported tompedido to jesugamer213]
+[01Jun2025 21:24:21.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 hit the ground too hard
+[01Jun2025 21:24:50.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido has made the advancement [Stone Age]
+[01Jun2025 21:27:46.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:35401] logged in with entity id 27023 at (326.54036802719867, -48.0, 1429.7567378866115)
+[01Jun2025 21:27:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 21:27:46.989] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 21:27:46.989] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 21:28:00.742] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 21:28:00.743] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 21:28:16.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:28:18.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 21:28:18.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 21:30:27.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> los bebes esqueletos son un asco
+[01Jun2025 21:30:34.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> la verdad
+[01Jun2025 21:30:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es mas peligroso q el zombie bebe
+[01Jun2025 21:31:11.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> como corre no es normal
+[01Jun2025 21:31:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> y parecen que tienes muchisima menos hitbox que el resto
+[01Jun2025 21:31:21.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> y si
+[01Jun2025 21:31:24.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> es un bebe
+[01Jun2025 21:31:24.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 has made the advancement [Cover Me with Diamonds]
+[01Jun2025 21:32:41.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> el mekanism es good
