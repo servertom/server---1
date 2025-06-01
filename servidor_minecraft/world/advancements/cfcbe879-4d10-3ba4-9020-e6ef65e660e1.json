@@ -667,6 +667,7 @@
       "apple": "2025-06-01 18:38:22 +0000",
       "bread": "2025-06-01 19:30:43 +0000",
       "golden_apple": "2025-06-01 21:03:21 +0000",
+      "rotten_flesh": "2025-06-01 21:13:28 +0000",
       "cooked_mutton": "2025-06-01 20:50:27 +0000",
       "cooked_beef": "2025-06-01 17:50:07 +0000",
       "beef": "2025-06-01 17:36:00 +0000"
@@ -1865,7 +1866,8 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
-      "baby_skeleton": "2025-06-01 18:00:32 +0000"
+      "baby_skeleton": "2025-06-01 18:00:32 +0000",
+      "baby_creeper": "2025-06-01 21:12:58 +0000"
     },
     "done": false
   },
@@ -2927,6 +2929,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-06-01 20:41:05 +0000"
@@ -2993,9 +3001,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/bullets/sand_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-06-01 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/bullets/neutral_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
     },
     "done": true
   },
@@ -3020,6 +3040,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-06-01 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/bullets/storm_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
     },
     "done": true
   },
@@ -3080,6 +3106,12 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-06-01 20:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
     },
     "done": true
   },
@@ -3191,6 +3223,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/bullets/concussive_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_normal": {
     "criteria": {
       "has_redstone": "2025-06-01 20:41:08 +0000"
@@ -3260,6 +3298,18 @@
   "trashcans:recipes/misc/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2025-06-01 20:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/bullets/seeker_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-06-01 21:17:05 +0000"
     },
     "done": true
   },
