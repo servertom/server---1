@@ -3532,3 +3532,10 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:52:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
 [01Jun2025 21:52:49.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
 [01Jun2025 21:53:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> botg
+[01Jun2025 22:07:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien?
+[01Jun2025 22:13:36.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anit_444[/127.203.71.23:40091] logged in with entity id 39647 at (-8.5, 67.0, 36.5)
+[01Jun2025 22:13:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 joined the game
+[01Jun2025 22:13:36.505] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:13:36.505] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:13:40.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anit_444 (18)
+[01Jun2025 22:13:40.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anit_444

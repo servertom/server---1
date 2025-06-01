@@ -12813,3 +12813,29 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:53:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> botg
 [01Jun2025 21:57:55.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [01Jun2025 22:02:55.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 22:07:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alguien?
+[01Jun2025 22:07:55.015] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 22:12:55.017] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 22:13:34.385] [Netty Epoll Server IO #7/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@a83e1f0 into net.minecraft.network.Connection@6d5ed5a4
+[01Jun2025 22:13:36.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anit_444[/127.203.71.23:40091] logged in with entity id 39647 at (-8.5, 67.0, 36.5)
+[01Jun2025 22:13:36.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 joined the game
+[01Jun2025 22:13:36.501] [Server thread/DEBUG] [FTB Teams/]: player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e logged in, player team = null
+[01Jun2025 22:13:36.501] [Server thread/DEBUG] [FTB Teams/]: creating new player team for player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:36.503] [Server thread/DEBUG] [FTB Teams/]:   - team created
+[01Jun2025 22:13:36.503] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = true
+[01Jun2025 22:13:36.504] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 22:13:36.504] [Server thread/DEBUG] [FTB Teams/]: sending team login event for 5287ac95-ae40-3e8c-9b64-c04b57fcd24e...
+[01Jun2025 22:13:36.505] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = 5287ac95-ae40-3e8c-9b64-c04b57fcd24e, team = 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:36.505] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:36.505] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:36.505] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
+[01Jun2025 22:13:36.505] [Server thread/DEBUG] [FTB Teams/]: team login event for 5287ac95-ae40-3e8c-9b64-c04b57fcd24e sent
+[01Jun2025 22:13:36.505] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:13:36.505] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:13:36.507] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e)
+[01Jun2025 22:13:36.507] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Anit_444: {disabled=false, disconnected=true, uuid=5287ac95-ae40-3e8c-9b64-c04b57fcd24e, name=Anit_444, group=null}
+[01Jun2025 22:13:40.087] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anit_444 (18)
+[01Jun2025 22:13:40.087] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Anit_444
+[01Jun2025 22:13:40.087] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with Anit_444
+[01Jun2025 22:13:40.087] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Anit_444
+[01Jun2025 22:13:40.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anit_444
