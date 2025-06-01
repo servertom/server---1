@@ -3671,3 +3671,13 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesugamer213 lost connection: Disconnected
 [01Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 left the game
 [01Jun2025 22:53:45.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jesugamer213
+[01Jun2025 22:56:05.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:49443] logged in with entity id 65049 at (-987.708862105626, 65.0, -659.3391506567324)
+[01Jun2025 22:56:05.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 22:56:05.866] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:56:05.866] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:56:28.021] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 22:56:28.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 22:57:29.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[01Jun2025 22:57:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 22:57:29.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 23:00:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] waa

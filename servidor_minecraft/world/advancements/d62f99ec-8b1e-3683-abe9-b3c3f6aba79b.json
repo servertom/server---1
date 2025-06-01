@@ -2465,21 +2465,15 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/stick": {
+  "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+      "has_rib_bone": "2025-06-01 22:18:58 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/glass_bottle": {
+  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
     "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_scroll": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
+      "has_rib_bone": "2025-06-01 22:18:58 +0000"
     },
     "done": true
   },
@@ -2489,57 +2483,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-01 22:32:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-01 22:33:47 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_dust": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/bone": {
-    "criteria": {
-      "has_rib_bone": "2025-06-01 22:18:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-01 22:28:56 +0000"
-    },
-    "done": true
-  },
   "reliquary:recipes/misc/uncrafting/gold_nugget": {
     "criteria": {
       "has_zombie_heart": "2025-06-01 22:19:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-01 22:32:07 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/alkahestry_tome": {
-    "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-06-01 22:32:07 +0000"
     },
     "done": true
   },
@@ -2549,21 +2495,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-01 22:19:24 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_scroll": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_dust": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/warp_stone": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
+    },
+    "done": true
+  },
+  "itemcollectors:recipes/misc/basic_collector": {
+    "criteria": {
+      "recipe_condition": "2025-06-01 22:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-01 22:25:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-06-01 22:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-06-01 22:28:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+  "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-06-01 22:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-01 22:30:01 +0000"
+      "has_planks": "2025-06-01 22:28:56 +0000"
     },
     "done": true
   },
@@ -2579,12 +2573,6 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
-    "criteria": {
-      "has_zombie_heart": "2025-06-01 22:19:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-06-01 22:28:56 +0000"
@@ -2597,21 +2585,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
-      "has_rail": "2025-06-01 22:33:47 +0000"
+      "has_planks": "2025-06-01 22:28:56 +0000"
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
-      "kill_mimic": "2025-06-01 22:32:34 +0000"
+      "has_planks": "2025-06-01 22:28:56 +0000"
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+      "has_planks": "2025-06-01 22:28:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-01 22:30:01 +0000"
     },
     "done": true
   },
@@ -2633,63 +2627,9 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/uncrafting/sugar": {
-    "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-06-01 22:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2025-06-01 22:28:56 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/witch": {
-    "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/warp_stone": {
-    "criteria": {
-      "has_ender_pearl": "2025-06-01 22:19:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
-    "criteria": {
-      "has_waterlily": "2025-06-01 22:27:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-01 22:30:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-01 22:28:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-06-01 22:33:47 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/redstone": {
-    "criteria": {
-      "has_witch_hat": "2025-06-01 22:30:41 +0000"
     },
     "done": true
   },
@@ -2699,15 +2639,45 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/skeleton": {
+  "reliquary:recipes/misc/uncrafting/stick": {
     "criteria": {
-      "has_rib_bone": "2025-06-01 22:18:58 +0000"
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
+  "reliquary:recipes/misc/uncrafting/glass_bottle": {
     "criteria": {
-      "has_planks": "2025-06-01 22:28:56 +0000"
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_tome": {
+    "criteria": {
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gunpowder_witch_hat": {
+    "criteria": {
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/sugar": {
+    "criteria": {
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/witch": {
+    "criteria": {
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/redstone": {
+    "criteria": {
+      "has_witch_hat": "2025-06-01 22:30:41 +0000"
     },
     "done": true
   },
@@ -2717,33 +2687,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-01 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-01 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-01 22:32:07 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-01 22:32:34 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-06-01 22:32:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_bamboo": "2025-06-01 22:25:50 +0000"
+      "has_rail": "2025-06-01 22:33:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_bamboo": "2025-06-01 22:25:50 +0000"
+      "has_rail": "2025-06-01 22:33:47 +0000"
     },
     "done": true
   },
-  "itemcollectors:recipes/misc/basic_collector": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "recipe_condition": "2025-06-01 22:19:50 +0000"
+      "has_rail": "2025-06-01 22:33:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_bamboo": "2025-06-01 22:25:50 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-06-01 22:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-01 22:44:13 +0000"
     },
     "done": true
   },

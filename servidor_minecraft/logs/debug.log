@@ -18987,3 +18987,31 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 22:53:45.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 left the game
 [01Jun2025 22:53:45.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jesugamer213
 [01Jun2025 22:53:45.535] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jesugamer213
+[01Jun2025 22:56:02.777] [Netty Epoll Server IO #2/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@7dad1e10 into net.minecraft.network.Connection@302ebb4c
+[01Jun2025 22:56:05.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejandroIsPro[/127.0.42.72:49443] logged in with entity id 65049 at (-987.708862105626, 65.0, -659.3391506567324)
+[01Jun2025 22:56:05.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
+[01Jun2025 22:56:05.864] [Server thread/DEBUG] [FTB Teams/]: player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b logged in, player team = AlejandroIsPro#d62f99ec
+[01Jun2025 22:56:05.864] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[01Jun2025 22:56:05.865] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Teams/]: sending team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b...
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Chunks/]: handling player team login: player = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, team = d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Chunks/]: server config and team data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Chunks/]: claimed chunk data sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Chunks/]: visible player list sent to d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 22:56:05.866] [Server thread/DEBUG] [FTB Teams/]: team login event for d62f99ec-8b1e-3683-abe9-b3c3f6aba79b sent
+[01Jun2025 22:56:05.866] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:56:05.866] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[01Jun2025 22:56:05.867] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b)
+[01Jun2025 22:56:05.867] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of AlejandroIsPro: {disabled=false, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 22:56:28.021] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[01Jun2025 22:56:28.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 22:56:28.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with AlejandroIsPro
+[01Jun2025 22:56:28.021] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 22:56:28.022] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 22:57:29.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[01Jun2025 22:57:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 22:57:29.740] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
+[01Jun2025 22:57:29.740] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 22:57:55.036] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 23:00:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] waa
+[01Jun2025 23:02:55.031] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

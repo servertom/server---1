@@ -1819,6 +1819,12 @@
     },
     "done": true
   },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-01 22:57:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
