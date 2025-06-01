@@ -12789,3 +12789,24 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:42:17.417] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [01Jun2025 21:42:17.417] [Worker-Main-4/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 3(5) Nodes and 4(0) Rooms
 [01Jun2025 21:42:55.058] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 21:45:39.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [advancements.apotheosis.enchantment]
+[01Jun2025 21:46:00.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jesugamer213 lost connection: Disconnected
+[01Jun2025 21:46:00.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 left the game
+[01Jun2025 21:46:00.049] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of jesugamer213
+[01Jun2025 21:46:00.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jesugamer213
+[01Jun2025 21:46:17.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> a
+[01Jun2025 21:47:55.037] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 21:51:34.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] termineeeeeeeee
+[01Jun2025 21:51:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> deq?
+[01Jun2025 21:52:32.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b timed out
+[01Jun2025 21:52:32.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player AlejandroIsPro
+[01Jun2025 21:52:32.140] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 21:52:32.140] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 groups with AlejandroIsPro
+[01Jun2025 21:52:32.140] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 21:52:32.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 21:52:32.140] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d62f99ec-8b1e-3683-abe9-b3c3f6aba79b to disconnected: {disabled=true, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 21:52:49.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Timed out
+[01Jun2025 21:52:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 21:52:49.390] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
+[01Jun2025 21:52:49.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 21:52:55.020] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
