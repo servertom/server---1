@@ -11268,3 +11268,70 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 20:41:46.358] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation CLOCKWISE_180 at (-62 | 32 | 1203)
 [01Jun2025 20:41:46.358] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-62 | 32 | 1203)
 [01Jun2025 20:41:46.359] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-62 | 32 | 1203)
+[01Jun2025 20:42:55.060] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:42:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Not Today, Thank You]
+[01Jun2025 20:44:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> wasap beiging
+[01Jun2025 20:44:35.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Diamonds!]
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-60 | 31 | 1716).
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 5(0) Rooms
+[01Jun2025 20:45:57.987] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[01Jun2025 20:45:57.988] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 7(2) Nodes and 5(0) Rooms
+[01Jun2025 20:45:57.988] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[01Jun2025 20:45:57.988] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 6(0) Rooms
+[01Jun2025 20:45:57.988] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[01Jun2025 20:45:57.988] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[01Jun2025 20:46:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 was doomed to fall by Baby Skeleton
+[01Jun2025 20:46:05.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> f
+[01Jun2025 20:46:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> xd
+[01Jun2025 20:47:55.063] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:48:23.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> en serio
+[01Jun2025 20:48:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> me voy a hacer full diamante antes q full hierro
+[01Jun2025 20:48:49.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> xd
+[01Jun2025 20:49:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a merendar me voy
+[01Jun2025 20:49:40.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro was slain by Zombie
+[01Jun2025 20:49:49.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=65, z=27}
+[01Jun2025 20:49:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> ;v
+[01Jun2025 20:50:07.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro has made the advancement [Cover Me with Diamonds]
+[01Jun2025 20:50:10.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> ewe
+[01Jun2025 20:51:04.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 fell from a high place
+[01Jun2025 20:52:18.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.2513958625132773
+[01Jun2025 20:52:18.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.3680220282232085
+[01Jun2025 20:52:18.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.5016119219992561
+[01Jun2025 20:52:18.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.3101088908908878
+[01Jun2025 20:52:18.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.502219162287588
+[01Jun2025 20:52:18.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.6683021789375516
+[01Jun2025 20:52:18.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 0.8494347598530112
+[01Jun2025 20:52:18.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Acacia Boat (vehicle of AlejandroIsPro) moved wrongly! 1.0941119489937137
+[01Jun2025 20:52:55.056] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:53:33.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> on tan
+[01Jun2025 20:53:40.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> fui a donde taba
+[01Jun2025 20:53:46.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> donde mori
+[01Jun2025 20:56:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesugamer213 fell from a high place
+[01Jun2025 20:56:30.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jesugamer213> se puso el agua y luego me mori
+[01Jun2025 20:57:55.060] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[01Jun2025 20:58:13.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b timed out
+[01Jun2025 20:58:13.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player AlejandroIsPro
+[01Jun2025 20:58:13.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[01Jun2025 20:58:13.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with AlejandroIsPro
+[01Jun2025 20:58:13.670] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[01Jun2025 20:58:13.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[01Jun2025 20:58:13.671] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of d62f99ec-8b1e-3683-abe9-b3c3f6aba79b to disconnected: {disabled=true, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:58:13.922] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of AlejandroIsPro: {disabled=true, disconnected=true, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:58:13.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:58:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b
+[01Jun2025 20:58:14.939] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of AlejandroIsPro to connected: {disabled=true, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:58:14.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player AlejandroIsPro (d62f99ec-8b1e-3683-abe9-b3c3f6aba79b) successfully connected to voice chat
+[01Jun2025 20:58:15.102] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of AlejandroIsPro: {disabled=true, disconnected=false, uuid=d62f99ec-8b1e-3683-abe9-b3c3f6aba79b, name=AlejandroIsPro, group=null}
+[01Jun2025 20:59:59.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> me voy
+[01Jun2025 21:00:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AlejandroIsPro> un ratito
+[01Jun2025 21:00:04.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[01Jun2025 21:00:04.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[01Jun2025 21:00:04.344] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
+[01Jun2025 21:00:04.344] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 21:00:04.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player d62f99ec-8b1e-3683-abe9-b3c3f6aba79b does not have a secret
+[01Jun2025 21:01:51.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> ok
+[01Jun2025 21:01:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Teleported jesugamer213 to tompedido]
+[01Jun2025 21:02:00.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 1234
