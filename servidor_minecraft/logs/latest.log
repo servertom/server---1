@@ -3531,3 +3531,4 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 21:52:49.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Timed out
 [01Jun2025 21:52:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
 [01Jun2025 21:52:49.390] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[01Jun2025 21:53:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> botg
