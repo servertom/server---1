@@ -3714,3 +3714,10 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [01Jun2025 23:41:39.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5287ac95-ae40-3e8c-9b64-c04b57fcd24e
 [01Jun2025 23:41:39.410] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anit_444 (5287ac95-ae40-3e8c-9b64-c04b57fcd24e) successfully connected to voice chat
 [01Jun2025 23:43:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [Who is Cutting Onions?]
+[01Jun2025 23:45:04.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 tried to swim in lava
+[01Jun2025 23:45:23.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anit_444> keep inventory?
+[01Jun2025 23:47:28.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tompedido> si
+[01Jun2025 23:47:36.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Jun2025 23:47:36.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[01Jun2025 23:50:13.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 was slain by Baby Enderman
+[01Jun2025 23:51:17.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anit_444 moved too quickly! 5.450010394891535,0.8322033533667508,8.449757598399273
