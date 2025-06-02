@@ -19130,3 +19130,9 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [02Jun2025 00:35:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [What a Deal!]
 [02Jun2025 00:37:55.039] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [02Jun2025 00:42:55.045] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:47:55.038] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:52:33.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anit_444 lost connection: Disconnected
+[02Jun2025 00:52:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 left the game
+[02Jun2025 00:52:33.991] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anit_444
+[02Jun2025 00:52:33.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
+[02Jun2025 00:52:55.013] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
