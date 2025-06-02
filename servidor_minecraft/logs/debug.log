@@ -19112,3 +19112,7 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [02Jun2025 00:01:49.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 00:01:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asd<--[HERE]
 [02Jun2025 00:02:55.043] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:07:55.038] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:12:55.044] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:13:12.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] on?
+[02Jun2025 00:13:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [A Seedy Place]

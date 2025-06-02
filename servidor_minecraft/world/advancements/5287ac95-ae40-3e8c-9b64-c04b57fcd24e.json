@@ -1049,7 +1049,8 @@
       "minecraft:witch": "2025-06-01 23:08:55 +0000",
       "minecraft:spider": "2025-06-01 22:37:30 +0000",
       "minecraft:zombie": "2025-06-01 22:43:33 +0000",
-      "minecraft:creeper": "2025-06-01 22:43:41 +0000"
+      "minecraft:creeper": "2025-06-01 22:43:41 +0000",
+      "minecraft:husk": "2025-06-02 00:09:22 +0000"
     },
     "done": false
   },
@@ -2535,6 +2536,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-01 23:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-06-02 00:06:00 +0000"
     },
     "done": true
   },
