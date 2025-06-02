@@ -19128,3 +19128,5 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [02Jun2025 00:27:55.037] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [02Jun2025 00:32:55.039] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
 [02Jun2025 00:35:02.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 has made the advancement [What a Deal!]
+[02Jun2025 00:37:55.039] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:42:55.045] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
