@@ -19,3 +19,8 @@
 [02Jun2025 00:52:33.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
 [02Jun2025 01:09:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [02Jun2025 01:09:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas<--[HERE]
+[02Jun2025 01:28:23.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 01:28:23.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: as<--[HERE]
+[02Jun2025 01:28:37.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tompedido lost connection: Disconnected
+[02Jun2025 01:28:37.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tompedido left the game
+[02Jun2025 01:28:37.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tompedido
