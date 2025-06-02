@@ -19152,3 +19152,5 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [02Jun2025 01:28:37.235] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of tompedido
 [02Jun2025 01:28:37.236] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client tompedido
 [02Jun2025 01:32:54.996] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 01:37:54.994] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 01:42:54.992] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
