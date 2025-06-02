@@ -19136,3 +19136,9 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [02Jun2025 00:52:33.991] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Anit_444
 [02Jun2025 00:52:33.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
 [02Jun2025 00:52:55.013] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 00:57:55.017] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 01:02:55.019] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 01:07:55.022] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[02Jun2025 01:09:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 01:09:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas<--[HERE]
+[02Jun2025 01:12:55.020] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

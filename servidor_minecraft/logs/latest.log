@@ -17,3 +17,5 @@
 [02Jun2025 00:52:33.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anit_444 lost connection: Disconnected
 [02Jun2025 00:52:33.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anit_444 left the game
 [02Jun2025 00:52:33.991] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anit_444
+[02Jun2025 01:09:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Jun2025 01:09:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sas<--[HERE]
