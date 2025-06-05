@@ -9688,3 +9688,5 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [05Jun2025 19:19:06.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
 [05Jun2025 19:19:06.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
 [05Jun2025 19:23:19.619] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jun2025 19:28:19.603] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jun2025 19:33:19.612] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
