@@ -1729,11 +1729,35 @@
     },
     "done": true
   },
-  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
+      "has_reeds": "2025-06-01 20:34:52 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-06-01 20:34:52 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-06-01 21:13:07 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-06-01 21:13:40 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-06-01 21:13:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
@@ -1750,6 +1774,90 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-01 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/gold_nugget": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
+    "criteria": {
+      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
     },
     "done": true
   },
@@ -1777,12 +1885,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
@@ -1795,57 +1897,9 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/computer_advanced": {
-    "criteria": {
-      "has_components": "2025-06-01 21:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/gold_nugget": {
-    "criteria": {
-      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
-    },
-    "done": true
-  },
-  "mekanismadditions:hurt_by_babies": {
-    "criteria": {
-      "baby_skeleton": "2025-06-01 22:57:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/mob_charm_fragments/zombie": {
-    "criteria": {
-      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
-  "reliquary:recipes/misc/uncrafting/rotten_flesh": {
-    "criteria": {
-      "has_zombie_heart": "2025-06-01 21:18:12 +0000"
     },
     "done": true
   },
@@ -1855,39 +1909,15 @@
     },
     "done": true
   },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-06-01 21:13:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
-    "criteria": {
-      "has_diamonds": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-06-01 21:17:57 +0000"
     },
     "done": true
   },
@@ -1900,12 +1930,6 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
     },
     "done": true
   },
@@ -1933,42 +1957,6 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/mossy_waystone_from_vines": {
-    "criteria": {
-      "has_waystone": "2025-06-01 22:37:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-06-01 20:34:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-06-01 20:34:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-01 22:41:21 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-06-01 21:13:40 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-06-01 21:24:50 +0000"
@@ -1993,11 +1981,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "waystones:recipes/decorations/mossy_waystone_from_vines": {
     "criteria": {
-      "has_diamond": "2025-06-01 21:17:57 +0000"
+      "has_waystone": "2025-06-01 22:37:44 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-01 22:41:21 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2025-06-01 22:57:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3700
 }
