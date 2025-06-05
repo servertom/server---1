@@ -9677,3 +9677,14 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [05Jun2025 19:17:29.101] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [05Jun2025 19:17:29.101] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V has 0 override(s) in child classes
 [05Jun2025 19:17:29.101] [Server thread/DEBUG] [mixin/]: moonlight-common.mixins.json:HoldingPlayerMixin from mod moonlight->@Inject::sanityCheck(IILorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V won't be passed a CallbackInfo as a result
+[05Jun2025 19:17:48.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[05Jun2025 19:17:48.120] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to AlejandroIsPro
+[05Jun2025 19:17:48.120] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with AlejandroIsPro
+[05Jun2025 19:17:48.120] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with AlejandroIsPro
+[05Jun2025 19:17:48.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[05Jun2025 19:18:19.656] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[05Jun2025 19:19:06.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[05Jun2025 19:19:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[05Jun2025 19:19:06.821] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlejandroIsPro
+[05Jun2025 19:19:06.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
+[05Jun2025 19:23:19.619] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

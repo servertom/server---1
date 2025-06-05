@@ -3296,3 +3296,8 @@ com.google.gson.JsonParseException: Item must not be minecraft:air
 [05Jun2025 19:17:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro joined the game
 [05Jun2025 19:17:28.215] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
 [05Jun2025 19:17:28.215] [Server thread/WARN] [net.neoforged.neoforge.network.registration.NetworkRegistry/]: Tried to send supermartijn642configlib:sync_packet packet to a client that does not support it. Not sending the packet.
+[05Jun2025 19:17:48.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejandroIsPro (18)
+[05Jun2025 19:17:48.120] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejandroIsPro
+[05Jun2025 19:19:06.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejandroIsPro lost connection: Disconnected
+[05Jun2025 19:19:06.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejandroIsPro left the game
+[05Jun2025 19:19:06.822] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejandroIsPro
