@@ -10,8 +10,6 @@
 	#How many ticks must pass until a block's active state is synced with the client, if it has been rapidly changing.
 	#Range: 0 ~ 1200
 	blockDeactivationDelay = 60
-	#Enable this to disable unboxing any block that has a fluid that would be vaporized on placement, instead of trying to vaporize it and leave the remainder of the block.
-	strictUnboxing = false
 	#Any mod ids added to this list will not be able to have any of their blocks, picked up by the cardboard box. For example: ["mekanism"]
 	cardboardModBlacklist = []
 	#Allow right clicking on Cables/Pipes/Tubes with alloys to upgrade the tier.
@@ -37,12 +35,6 @@
 	#Peak processing rate for the Solar Neutron Activator. Note: It can go higher than this value in some extreme environments.
 	#Range: 1 ~ 1024
 	maxSolarNeutronActivatorRate = 64
-	#Rate at which generic fluid storage items can be filled or emptied.
-	#Range: > 1
-	fluidItemFillRate = 1024
-	#Rate at which generic chemical storage items can be filled or emptied.
-	#Range: 1 ~ 9223372036854775807
-	chemicalItemFillRate = 1024
 
 	#Dynamic Tank Settings
 	[general.dynamic_tank]
@@ -80,6 +72,10 @@
 
 	#Energy Conversion Rate Settings
 	[general.energy_conversion]
+		#Disables IC2 power integration. Requires world restart (server-side option in SMP).
+		blacklistIC2 = false
+		#Conversion multiplier from EU to Joules (EU * euConversionRate = Joules)
+		euConversionRate = "10"
 		#Disables Forge Energy (FE,RF,IF,uF,CF) power integration. Requires world restart (server-side option in SMP).
 		blacklistForge = false
 		#Conversion multiplier from Forge Energy to Joules (FE * feConversionRate = Joules)
@@ -151,8 +147,8 @@
 		#Maximum block distance to pull fluid from for the Electric Pump.
 		#Range: 1 ~ 512
 		maxPumpRange = 80
-		#If enabled and waterSourceConversion is enabled makes Water and Heavy Water blocks be removed from the world on pump. Similarly behavior for lavaSourceConversion and Lava
-		pumpInfiniteFluidSources = false
+		#If enabled makes Water and Heavy Water blocks be removed from the world on pump.
+		pumpWaterSources = false
 		#mB of Heavy Water that is extracted per block of Water by the Electric Pump with a Filter Upgrade.
 		#Range: 1 ~ 1000
 		pumpHeavyWaterAmount = 10
