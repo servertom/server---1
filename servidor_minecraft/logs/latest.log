@@ -483,3 +483,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mekaweapons:module_arrowveloc
 [10Jun2025 19:26:32.120] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of tompedido (18)
 [10Jun2025 19:26:32.122] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to tompedido
 [10Jun2025 19:32:57.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=125, y=96, z=38} BlockPos{x=125, y=95, z=38}
+[10Jun2025 19:34:39.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=142, y=85, z=70} BlockPos{x=141, y=85, z=70}
+[10Jun2025 19:38:44.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made tompedido a server operator
+[10Jun2025 19:38:51.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Set own game mode to Creative Mode]
+[10Jun2025 19:42:22.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[10Jun2025 19:42:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tompedido: Gamerule playersSleepingPercentage is now set to: 1]
